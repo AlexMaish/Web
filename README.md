@@ -32,7 +32,6 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 * **CSS** – Styling and responsiveness
 * **JavaScript** – Interactivity and logic
 
-*(Technologies can be extended depending on the project scope.)*
 
 ---
 
