@@ -10,13 +10,6 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 
 
 
-## ✨ Features
-
-* Responsive user interface
-* Clean and intuitive design
-* Dynamic content rendering
-* Well-structured and maintainable codebase
-
 ---
 
 ## 🛠️ Technologies Used
