@@ -12,14 +12,7 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 
 ---
 
-## 🛠️ Technologies Used
 
-* **HTML** – Structure and layout
-* **CSS** – Styling and responsiveness
-* **JavaScript** – Interactivity and logic
-
-
----
 
 
 
