@@ -28,11 +28,7 @@ web-project/
 web-project/
 │── index.html
 │── css/
-│   └── styles.css
-│── js/
-│   └── script.js
-│── README.md
-```
+│   └── styles.
 
 ---
 
