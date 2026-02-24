@@ -12,24 +12,6 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 
 ---
 
-
-web-project/
-│── index.html
-│── css/
-│   └── styles.css
-│── js/
-│   └── script.js
-│── README.md
-
-
-## 📂 Project Structure (Example)
-
-```
-web-project/
-│── index.html
-│── css/
-│   └── styles.
-
 ---
 
 ## 🔮 Future Improvements
